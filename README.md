@@ -13,6 +13,7 @@ _Link para Ubidots_
 
 ```
 *[UBIDOtS](https://stem.ubidots.com/app/dashboards/61becd62d58851045e566f74/) -- Dashboard
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 ```
 ## Autores ✒
 
