@@ -1,5 +1,5 @@
 # Control-de-bombas-Proteus
-Visualización por Ubidots del estado del sistema, controlado por un Atmega328p, comunicados por una programa en Python.
+Visualización por Ubidots del estado del sistema, controlado por un Atmega328p, comunicados por un programa en Python.
 ## Consideraciones
 
 _Para un correcto funcionamiento debe seguirse:_
