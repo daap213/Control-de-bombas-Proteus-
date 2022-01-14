@@ -12,5 +12,11 @@ El programa de Python debe correrse antes que que la simulación.
 _Link para Ubidots_
 
 ```
-https://stem.ubidots.com/app/dashboards/61becd62d58851045e566f74/
+[UBIDOtS](https://stem.ubidots.com/app/dashboards/61becd62d58851045e566f74/) -- Dashboard
 ```
+## Autores ✒
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Daniel Alvarado Pelaéz** 
+* **Marcelo Mendoza Hidalgo** 
