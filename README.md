@@ -21,7 +21,5 @@ _Presentado por Canva_
 
 ## Autores ✒
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Daniel Alvarado Pelaéz** 
 * **Marcelo Mendoza Hidalgo** 
