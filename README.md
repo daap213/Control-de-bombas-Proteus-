@@ -9,6 +9,14 @@ El programa de Python debe correrse antes que la simulación.
 ```
 ## Visualización 
 
+## Ilustració del circuito en Proteus:
+
+![image](https://user-images.githubusercontent.com/69557269/217959778-c540ea2c-f3a1-44d6-9c6a-61bb780df86c.png)
+
+## Ilustració del diseño HMI UBIDOTS:
+
+![image](https://user-images.githubusercontent.com/69557269/217960062-b291ba95-1000-4958-9ed0-6176e82920af.png)
+
 _Links_
 
 ### Observación del dashboard:
